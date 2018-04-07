@@ -1,0 +1,121 @@
+    
+    [
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: Heroes are made in the hour of defeat. Success is, therefore, well described as a series of glorious defeats. - Gandhi"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: If the world were merely seductive, that would be easy. If it were merely challenging, that would be no problem. Bu… https://t.co/Cpm7syeXQQ"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: It does not matter how slow you go so long as you do not stop  -CONFUCIUS"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: J. Paul Getty: In times of rapid change, experience could be your worst enemy."
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. steve jobs"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: I'd rather be hated for who I am, than loved for who I am not -Kurt Cobain"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: I am convinced that life is 10% what happens to me and 90% of how I react to it. And so it is with you... we are in… https://t.co/x1Polon4XD"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: Voltaire: If God did not exist, it would be necessary to invent him"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: It's not what you look at that matters, it's what you see. - Henry David Thoreau"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: A clever man solves a problem, a wise man avoids it"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: Ralph Waldo Emerson: 'In my walks, every man I meet is my superior in some way, and in that I learn from him.'"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. Emerson"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himse… https://t.co/Arb16Rxc0u"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: I have decided to be happy because it is good for my health. Voltaire"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: If You Don’t Have Time to Do It Right, When Will You Have Time to Do It Over? - John Wooden"
+  ],
+  [
+    "Date: Apr 05, 2018",
+    "Tweet: The real voyage of discovery consists not in seeking new landscapes, but in having new eyes. (Proust)"
+  ],
+  [
+    "Date: Apr 04, 2018",
+    "Tweet: To be more specific, Nodejs is the best!"
+  ],
+  [
+    "Date: Apr 04, 2018",
+    "Tweet: Coding is the best!"
+  ],
+  [
+    "Date: Apr 04, 2018",
+    "Tweet: Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away. -Antoine de Saint-Exupéry"
+  ],
+  [
+    "Date: Apr 04, 2018",
+    "Tweet: Tweet number two! Nice!"
+  ]
+]
+    ==========================================================
+    
+    [
+  "Title: Mr. Nobody",
+  "Year: 2009",
+  "IMDB Rating: 7.9/10",
+  "Rotten Tomatoes Rating: 66%",
+  "Country: Belgium, Germany, Canada, France, USA, UK",
+  "Language: English, Mohawk",
+  "Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+]
+    ==========================================================
+    
+    [
+  "Title: Aladdin",
+  "Year: 1992",
+  "IMDB Rating: 8.0/10",
+  "Rotten Tomatoes Rating: 94%",
+  "Country: USA",
+  "Language: English",
+  "Plot: When a street urchin vies for the love of a beautiful princess, he uses a genie's magic power to make himself off as a prince in order to marry her.",
+  "Actors: Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman"
+]
+    ==========================================================
+    
+    [
+  "Title: Get Out",
+  "Year: 2017",
+  "IMDB Rating: 7.7/10",
+  "Rotten Tomatoes Rating: 99%",
+  "Country: Japan, USA",
+  "Language: English",
+  "Plot: A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+  "Actors: Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford"
+]
+    ==========================================================
+    
